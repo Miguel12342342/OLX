@@ -1,0 +1,26 @@
+Analyzing olx...                                                
+
+  error - Target of URI doesn't exist: '../widgets/item_anuncio.dart' - lib\views\anuncios.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/navegacao.dart' - lib\views\anuncios.dart:6:8 - uri_does_not_exist
+  error - Undefined class 'Navegacao' - lib\views\anuncios.dart:17:9 - undefined_class
+  error - The method 'Navegacao' isn't defined for the type '_AnunciosState' - lib\views\anuncios.dart:17:32 - undefined_method
+  error - The method 'ItemAnuncio' isn't defined for the type '_AnunciosState' - lib\views\anuncios.dart:87:32 - undefined_method
+  error - Target of URI doesn't exist: '../widgets/botao_customizado.dart' - lib\views\login.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/input_customizado.dart' - lib\views\login.dart:4:8 - uri_does_not_exist
+  error - The method 'InputCustomizado' isn't defined for the type '_LoginState' - lib\views\login.dart:55:21 - undefined_method
+  error - The method 'InputCustomizado' isn't defined for the type '_LoginState' - lib\views\login.dart:60:21 - undefined_method
+  error - The method 'BotaoCustomizado' isn't defined for the type '_LoginState' - lib\views\login.dart:79:23 - undefined_method
+  error - Target of URI doesn't exist: '../widgets/item_anuncio.dart' - lib\views\meus_anuncios.dart:5:8 - uri_does_not_exist
+  error - The method 'ItemAnuncio' isn't defined for the type '_MeusAnunciosState' - lib\views\meus_anuncios.dart:88:26 - undefined_method
+  error - Target of URI doesn't exist: '../widgets/botao_customizado.dart' - lib\views\novo_anuncio.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../widgets/input_customizado.dart' - lib\views\novo_anuncio.dart:7:8 - uri_does_not_exist
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\views\novo_anuncio.dart:178:31 - deprecated_member_use
+warning - Unnecessary cast - lib\views\novo_anuncio.dart:185:45 - unnecessary_cast
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\views\novo_anuncio.dart:198:31 - deprecated_member_use
+warning - Unnecessary cast - lib\views\novo_anuncio.dart:205:45 - unnecessary_cast
+  error - The method 'InputCustomizado' isn't defined for the type '_NovoAnuncioState' - lib\views\novo_anuncio.dart:219:30 - undefined_method
+  error - The method 'InputCustomizado' isn't defined for the type '_NovoAnuncioState' - lib\views\novo_anuncio.dart:233:30 - undefined_method
+  error - The method 'InputCustomizado' isn't defined for the type '_NovoAnuncioState' - lib\views\novo_anuncio.dart:252:30 - undefined_method
+  error - The method 'InputCustomizado' isn't defined for the type '_NovoAnuncioState' - lib\views\novo_anuncio.dart:271:30 - undefined_method
+  error - The method 'BotaoCustomizado' isn't defined for the type '_NovoAnuncioState' - lib\views\novo_anuncio.dart:296:23 - undefined_method
+
